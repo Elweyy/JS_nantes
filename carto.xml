@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carto>
+  <markers>
+    <marker name="00027 - NANCY THERMAL (CB)" number="27" address="Rue du Sergent Blandan" fullAddress="Rue du Sergent Blandan  " lat="48.67899967679407" lng="6.167632567397485" open="1" bonus="0"/>
+    <marker name="00028 - MARCHÉ D'HAUSSONVILLE" number="28" address="Boulevard d'Haussonville" fullAddress="Boulevard d'Haussonville  " lat="48.67227619793021" lng="6.165710709115886" open="1" bonus="0"/>
+    <marker name="00029 - VÉLODRÔME (CB)" number="29" address="Place du Vélodrôme" fullAddress="Place du Vélodrôme  " lat="48.666721193896" lng="6.16661978303466" open="1" bonus="0"/>
+    <marker name="00026 - BAUDRICOURT HAUSSONVILLE" number="26" address="Rue des 3 Epis Baudricourt" fullAddress="Rue des 3 Epis Baudricourt  " lat="48.675248491826174" lng="6.162844844269929" open="1" bonus="0"/>
+    <marker name="00014 - FAC DE LETTRES (CB)" number="14" address="Place Godefroy de Bouillon" fullAddress="Place Godefroy de Bouillon  " lat="48.6928180794454" lng="6.16860978784457" open="1" bonus="0"/>
+    <marker name="00020 - PLACE DES VOSGES" number="20" address="Angle avenue du Général Leclerc et rue du Maréchal De Lattre de Tassigny" fullAddress="Angle avenue du Général Leclerc et rue du Maréchal De Lattre de Tassigny  " lat="48.684781" lng="6.187631" open="1" bonus="0"/>
+    <marker name="00025 - PLACE COMMANDERIE" number="25" address="Place de la Commanderie - Face au n°13" fullAddress="Place de la Commanderie - Face au n°13  " lat="48.6859179816784" lng="6.1674218161464" open="1" bonus="0"/>
+    <marker name="00013 - SAINT NICOLAS - CHARLES III" number="13" address="77 rue Saint-Nicolas" fullAddress="77 rue Saint-Nicolas  " lat="48.6878319691091" lng="6.18780151507824" open="1" bonus="0"/>
+    <marker name="00004 - MARCHE CENTRAL (CB)" number="4" address="Angle rue Saint-Dizier - Rue du Dr SCHMITT" fullAddress="Angle rue Saint-Dizier - Rue du Dr SCHMITT  " lat="48.6891733257851" lng="6.18390463043762" open="1" bonus="0"/>
+    <marker name="00018 - GARE SAINT LEON (CB)" number="18" address="Angle rue Saint-Léon - Esplanade Saint-Léon" fullAddress="Angle rue Saint-Léon - Esplanade Saint-Léon  " lat="48.689560111075" lng="6.17251545229862" open="1" bonus="0"/>
+    <marker name="00015 - PORT STE CATHERINE" number="15" address="Angle rue Henri BAZIN et quai Sainte-Catherine" fullAddress="Angle rue Henri BAZIN et quai Sainte-Catherine  " lat="48.6954870039528" lng="6.1906794896667" open="1" bonus="0"/>
+    <marker name="00017 - CONSERVATOIRE - MANUFACTURE" number="17" address="27 rue Baron Louis - Angle quai Claude le Lorrain" fullAddress="27 rue Baron Louis - Angle quai Claude le Lorrain  " lat="48.6957176856775" lng="6.17133838702303" open="1" bonus="0"/>
+    <marker name="00005 - PLACE COLONEL DRIANT (CB)" number="5" address="Rue Drouin - Face au n°2" fullAddress="Rue Drouin - Face au n°2  " lat="48.6924632065328" lng="6.18818527637749" open="1" bonus="0"/>
+    <marker name="00024 - 3 MAISONS - CHARLES V (CB)" number="24" address="15 rue du faubourg des 3 Maisons - Angle boulevard Charles" fullAddress="15 rue du faubourg des 3 Maisons - Angle boulevard Charles  " lat="48.7008781485017" lng="6.17706203367071" open="1" bonus="0"/>
+    <marker name="00006 - LES 2 RIVES (CB)" number="6" address="2 rue Emilie du Châtelet" fullAddress="2 rue Emilie du Châtelet  " lat="48.695420147586" lng="6.19522861327582" open="1" bonus="0"/>
+    <marker name="00009 - PLACE BARROIS (CB)" number="9" address="Place Barrois" fullAddress="Place Barrois  " lat="48.69950232851108" lng="6.204735639873545" open="1" bonus="0"/>
+    <marker name="00023 - PROMENADE DES CANAUX" number="23" address="Promenade des Canaux" fullAddress="Promenade des Canaux  " lat="48.6927939742599" lng="6.19628435757015" open="1" bonus="0"/>
+    <marker name="00012 - ST SEBASTIEN - ST THIEBAUT (CB)" number="12" address="Angle rue Saint-Thiebaut et rue du Grand Rabbin HAGUENAUER" fullAddress="Angle rue Saint-Thiebaut et rue du Grand Rabbin HAGUENAUER  " lat="48.6886141256403" lng="6.17950010441818" open="1" bonus="0"/>
+    <marker name="00021 - HOPITAL CENTRAL (CB)" number="21" address="45 avenue du Maréchal de Lattre de Tassigny" fullAddress="45 avenue du Maréchal de Lattre de Tassigny  " lat="48.6833502130976" lng="6.19029660801914" open="1" bonus="0"/>
+    <marker name="00019 - COMMANDERIE - CHALNOT" number="19" address="Angle rue Pierre CHALNOT et rue de la Commanderie" fullAddress="Angle rue Pierre CHALNOT et rue de la Commanderie  " lat="48.6869197241039" lng="6.17234789239391" open="1" bonus="0"/>
+    <marker name="00016 - PORTE DE LA CRAFFE (CB)" number="16" address="Angle rue du Haut Bourgeois et place des Bourgets" fullAddress="Angle rue du Haut Bourgeois et place des Bourgets  " lat="48.6984724451821" lng="6.17798553705909" open="1" bonus="0"/>
+    <marker name="00001 - DOMINICAINS - FOURRIER (CB)" number="1" address="Angle rue Pierre FOURRIER et rue des Dominicains" fullAddress="Angle rue Pierre FOURRIER et rue des Dominicains  " lat="48.6924654452072" lng="6.18340055389445" open="1" bonus="0"/>
+    <marker name="00011 - MAZAGRAN - FOCH (CB)" number="11" address="Boulevard Foch" fullAddress="Boulevard Foch  " lat="48.6894760345252" lng="6.17650546239553" open="1" bonus="0"/>
+    <marker name="00022 - HOPITAL ST JULIEN" number="22" address="Angle rue Molitor et rue Foller" fullAddress="Angle rue Molitor et rue Foller  " lat="48.6858574026886" lng="6.19290171469907" open="1" bonus="0"/>
+    <marker name="00003 - PLACE DE DOMBASLE (CB)" number="3" address="Rue Stanislas - Face au n°68" fullAddress="Rue Stanislas - Face au n°68  " lat="48.6919579483934" lng="6.17851021950761" open="1" bonus="0"/>
+    <marker name="00008 - COURS LEOPOLD - SAINT MICHEL (CB)" number="8" address="Angle rue Saint-Michel et cours Léopold" fullAddress="Angle rue Saint-Michel et cours Léopold  " lat="48.6956140662607" lng="6.17676840786255" open="1" bonus="0"/>
+    <marker name="00002 - PLACE DE LA CARRIERE (CB)" number="2" address="Angle Place de la Carrière et rue des Maréchaux" fullAddress="Angle Place de la Carrière et rue des Maréchaux  " lat="48.6945981637388" lng="6.18229408637817" open="1" bonus="0"/>
+    <marker name="00010 - GARE THIERS (CB)" number="10" address="Rue Pirou Crampel" fullAddress="Rue Pirou Crampel  " lat="48.6901882593177" lng="6.17451913850729" open="1" bonus="0"/>
+  </markers>
+  <arrondissements>
+    <arrondissement number="0" minLat="48.666721193896" minLng="6.162844844269929" maxLat="48.7008781485017" maxLng="6.204735639873545"/>
+  </arrondissements>
+</carto>

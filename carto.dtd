@@ -1,0 +1,22 @@
+<!ELEMENT arrondissement EMPTY >
+<!ATTLIST arrondissement maxLat NMTOKEN #REQUIRED >
+<!ATTLIST arrondissement maxLng NMTOKEN #REQUIRED >
+<!ATTLIST arrondissement minLat NMTOKEN #REQUIRED >
+<!ATTLIST arrondissement minLng NMTOKEN #REQUIRED >
+<!ATTLIST arrondissement number NMTOKEN #REQUIRED >
+
+<!ELEMENT arrondissements ( arrondissement ) >
+
+<!ELEMENT carto ( markers, arrondissements ) >
+
+<!ELEMENT marker EMPTY >
+<!ATTLIST marker address CDATA #REQUIRED >
+<!ATTLIST marker bonus NMTOKEN #FIXED "0" >
+<!ATTLIST marker fullAddress CDATA #REQUIRED >
+<!ATTLIST marker lat NMTOKEN #REQUIRED >
+<!ATTLIST marker lng NMTOKEN #REQUIRED >
+<!ATTLIST marker name CDATA #REQUIRED >
+<!ATTLIST marker number NMTOKEN #REQUIRED >
+<!ATTLIST marker open NMTOKEN #FIXED "1" >
+
+<!ELEMENT markers ( marker+ ) >
