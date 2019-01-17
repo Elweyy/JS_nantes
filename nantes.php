@@ -48,7 +48,7 @@ $html = <<<HTML
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Test map</title>
+    <title>Agglomération de Nantes</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
@@ -65,7 +65,7 @@ $html = <<<HTML
 <div class="container">
     <div class="row">
         <div class="Titre">
-            <h1 id="header">Test map</h1>
+            <h1 id="header">Agglomération de Nantes</h1>
         </div>
         <div id="mapid"></div>
     </div>
